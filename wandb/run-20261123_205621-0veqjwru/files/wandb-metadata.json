@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.13.11",
+  "startedAt":  "2026-11-23T19:56:21.000186Z",
+  "program":  "c:\\Users\\Bruger\\Documents\\GitHub\\Deep-Learning-Assignment-1\\MNISTfeedforwardAssignment.ipynb",
+  "codePath":  "c:\\Users\\Bruger\\Documents\\GitHub\\Deep-Learning-Assignment-1\\MNISTfeedforwardAssignment.ipynb",
+  "codePathLocal":  "MNISTfeedforwardAssignment.ipynb",
+  "git":  {
+    "remote":  "https://github.com/TheGucciOtter/Deep-Learning-Assignment-1.git",
+    "commit":  "15e534878b630c74c9d9569b1bb252ae3912327a"
+  },
+  "email":  "lucashelmoe@gmail.com",
+  "root":  "c:\\Users\\Bruger\\Documents\\GitHub\\Deep-Learning-Assignment-1",
+  "host":  "LAPTOP-KTMC4OGP",
+  "executable":  "c:\\Users\\Bruger\\miniconda3\\python.exe",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "509722226688",
+      "used":  "250138079232"
+    }
+  },
+  "memory":  {
+    "total":  "16908148736"
+  },
+  "cpu":  {
+    "model":  "13th Gen Intel(R) Core(TM) i5-13500H"
+  },
+  "writerId":  "01a209fb-1ac0-71a2-a43a-8e0a0ebbdea0"
+}
