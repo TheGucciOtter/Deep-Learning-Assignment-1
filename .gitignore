@@ -1,0 +1,5 @@
+# MNIST dataset
+data/
+
+# Weights & Biases logs
+wandb/
